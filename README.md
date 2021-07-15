@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CDdickey
 - 👀 I’m interested in Embeded/ML/CV
-- 🌱 I’m currently learning undergraduate exam...
+- 🌱 I’m currently learning postgraduate exam...
 - 💞️ I’m looking to collaborate on embeded frameworks
 - 📫 How to reach me E-MAIL:cddickey00@gmail.com
 
